@@ -3,8 +3,7 @@
 The Music Store Data Case Study is an analytical project aimed at understanding the business performance of a fictional music store. The primary focus is on examining sales data, customer information, and product details to derive insights that can help improve business strategies and decision-making.
 
 # Dataset Description
-The dataset used in this case study includes the following tables:
-
+The dataset used in this case study includes the following tables: 
 Customers: Information about customers such as name, email, and location.
 Invoices: Details of each invoice including date, customer, and total amount.
 Invoice_Items: Specific items included in each invoice, with their quantity and price.
